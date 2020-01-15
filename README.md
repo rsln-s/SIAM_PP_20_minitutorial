@@ -9,6 +9,7 @@ The recommended platform for running these notebooks is IBM IQX. To create an ac
 After logging in, go to Qiskit Notebooks:
 
 ![Notebook instructions step 1](/images/notebooks1.png)
+
 ![Notebook instructions step 2](/images/notebooks2.png)
 
 Then upload ("Import") `Hands-on.ipynb` notebook:
