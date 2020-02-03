@@ -1,6 +1,6 @@
 ### Combinatorial Optimization on Quantum Computers
 
-This repository contains Jupyter Notebooks for the minitutorial "Combinatorial Optimization on Quantum Computers" at SIAM Conference on Parallel Processing for Scientific Computing (PP20)
+This repository contains slides and Jupyter Notebooks for the minitutorial "Combinatorial Optimization on Quantum Computers" at SIAM Conference on Parallel Processing for Scientific Computing (PP20)
 
 #### Prerequisites 
 
